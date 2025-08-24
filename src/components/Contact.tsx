@@ -7,14 +7,14 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Telefone",
-      info: "(11) 99999-9999",
-      action: "tel:+5511999999999"
+      info: "(51) 9 8611-7054",
+      action: "tel:+5551986117054"
     },
     {
       icon: MessageCircle,
       title: "WhatsApp",
-      info: "(11) 99999-9999",
-      action: "https://wa.me/5551980485249"
+      info: "(51) 98611-7054",
+      action: "https://wa.me/5551986117054"
     },
     {
       icon: MapPin,

@@ -32,8 +32,8 @@ const Footer = () => {
               Contato Rápido
             </h5>
             <ul className="space-y-2 text-muted-foreground">
-              <li>Telefone: (11) 99999-9999</li>
-              <li>WhatsApp: (11) 99999-9999</li>
+              <li>Telefone: (51) 986117054</li>
+              <li>WhatsApp: (51) 986117054</li>
               <li>Segunda a Sexta: 8h às 18h</li>
               <li>Sábado: 8h às 12h</li>
             </ul>
